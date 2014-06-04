@@ -1,6 +1,6 @@
 this is new file
 
-Pankaj's update are checked in. this is not good to do. Rising conflict.
+ Pankaj update this. this is not good to do. NO Conflict.
 
 
 This line is added after fork.
